@@ -1,0 +1,12 @@
+.Xauthority
+.bash_history
+.cache/*
+.ccache/*
+.config/*
+.local/*
+.sudo_as_admin_successful
+audioserver/*
+build-env/*
+build-output/*
+logs/*
+snc/*
